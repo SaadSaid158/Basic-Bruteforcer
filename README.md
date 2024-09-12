@@ -72,6 +72,24 @@ All attempts are logged in files named according to the protocol:
 - `http_attempts.log`
 - `ftp_attempts.log`
 
+## Improvements to be Made
+
+- [ ] Add support for additional protocols like IMAP, POP3, etc.
+- [ ] Improve error handling and retry mechanisms for robustness.
+- [ ] Develop a graphical user interface (GUI) for easier configuration and use.
+- [ ] Implement rate limiting to handle targets with rate limits more gracefully.
+- [ ] Integrate features for generating password lists dynamically based on patterns.
+- [ ] Enhance logging with timestamps and more detailed failure reasons.
+- [ ] Allow configuration via a file for easier setup of multiple parameters.
+- [ ] Optimize threading and resource management for better performance.
+
+## Project Status
+
+- **Current State**: Alpha
+- **In Development**: Basic functionality is working. Ongoing development to add new features and improve stability.
+- **Planned Features**: See the "Improvements to be Made" section for upcoming features and enhancements.
+- **Known Issues**: Limited support for some protocols and error handling may need improvement.
+
 ## Contributing
 
 Feel free to submit issues or pull requests to improve the tool.
