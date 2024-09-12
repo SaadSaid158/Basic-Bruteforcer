@@ -1,5 +1,4 @@
 ---
-
 # Simple Bruteforcer
 
 A simple Python-based password-cracking tool inspired by Hydra. Supports SSH, HTTP, and FTP brute-force attacks. 
