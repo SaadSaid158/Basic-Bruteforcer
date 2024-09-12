@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspired by Hydra, a very popular brute forcing tool in the industry.
+- Inspired by Hydra, a _very_ popular brute forcing tool in the industry.
 - Uses `paramiko`, `requests`, and `ftplib` libraries
 
 ---
