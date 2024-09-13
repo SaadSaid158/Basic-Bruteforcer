@@ -6,16 +6,16 @@
 
 A simple Python-based password-cracking tool inspired by Hydra. Supports SSH, HTTP, and FTP brute-force attacks. 
 
-## Disclaimer
-
-**_Use this tool responsibly. This tool is intended for educational purposes and legitimate security testing only._** Unauthorized use of this tool against systems you do not own or have explicit permission to test is illegal and unethical. The creator of this tool is not responsible for any misuse or legal consequences resulting from its use. Always obtain proper authorization before performing security testing. 
-
 ## Features
 
 - **Protocol Support**: SSH, HTTP, FTP
 - **Multithreading**: Speed up the brute-force process
 - **Logging**: Records all login attempts
 - **Configurable**: Number of threads and login URL (for HTTP)
+
+## Disclaimer
+
+**_Use this tool responsibly. This tool is intended for educational purposes and legitimate security testing only._** Unauthorized use of this tool against systems you do not own or have explicit permission to test is illegal and unethical. The creator of this tool is not responsible for any misuse or legal consequences resulting from its use. Always obtain proper authorization before performing security testing. 
 
 ## Requirements
 
